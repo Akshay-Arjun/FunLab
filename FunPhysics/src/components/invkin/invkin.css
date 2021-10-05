@@ -1,0 +1,33 @@
+.ikbox{
+  color: white;
+  height: 100vh;
+}
+
+.descrp{
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 0 24px 48px;
+  color: #bcc4cd;
+}
+
+.descrp a{
+  color: #eaebf0;
+  font-size: 1em;
+}
+
+.controls{
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 48px;
+  color: #fefefe;
+  z-index: 2;
+}
+
+.redbd{
+  box-sizing: border-box;
+  border: solid 2px red;
+}
